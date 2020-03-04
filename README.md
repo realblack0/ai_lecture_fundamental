@@ -1,11 +1,11 @@
-<img src='imgs/main.png' />
+<img src='imgs/course.png' />
 
 # [AI 이노베이션 스퀘어 기본과정 저녁반](https://realblack0.github.io/ai_lecture_fundamental/)
 
 <div align="center">
   <h2 style='font-weight: bold; font-size:18px;'>주관</h2>
   <a href='https://www.msit.go.kr/web/main/main.do'>
-    <img src='imgs/logo_MSICT.png' width="200" height="50" />
+    <img src='imgs/logo_MSICT.png'/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href='https://ai.koipa.or.kr/'>
