@@ -9,7 +9,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href='https://ai.koipa.or.kr/'>
-    <img src='imgs/logo_IPA.png' />
+    <img src='imgs/logo_IPA.png' width=200px hegiht=50px />
   </a>
 </div>
 <br/>
