@@ -30,7 +30,7 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
 ### [20200303 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200303%20기본저녁반%20필기자료.ipynb)
     - numpy
     - Fancy Indexing, Broadcasting, Universal Function, Factory Method, tensorflow의 MNIST 데이터셋 열어보기
-    - shape, ndim, size, dtype, itemsize, arange, zeros, ones, full, _like, empty, linsapce, matrix, flat, copy, view, linalg, split, vsplit, hsplit, reshape, resize, stack, vstack, hstack, concatenate, dstack, r_, c_, r_, ix_, newaxis
+    - shape, ndim, size, dtype, itemsize, arange, zeros, ones, full, _like, empty, linsapce, matrix, flat, copy, view, linalg, split, vsplit, hsplit, reshape, resize, stack, vstack, hstack, concatenate, dstack, r_, c_, s_, ix_, newaxis
 
 ### [20200304 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200304%20기본저녁반%20필기자료(numpy).ipynb)
     - numpy
