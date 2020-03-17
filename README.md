@@ -78,6 +78,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
 ### [20200313 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200313%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - scikit-learn, folium
     - KNN, MLP, Choropleth(단계구분도)
+    
+### [20200316 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200316%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - scikit-learn
+    - 기계학습, 지도학습, random
+    - train_test_split, randint, shuffle, seed
 
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
