@@ -27,6 +27,13 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
 ```
 
 ## 필기자료 키워드 목차
+찾기(`ctrl` + `F`) 기능으로 키워드를 검색하면 해당 내용이 있는 필기자료를 찾을 수 있습니다.  
+
+### 필기자료(링크)
+    - 사용 라이브러리
+    - 주제
+    - 함수, 클래스, 속성 등 라이브러리가 제공하는 기능 명칭
+
 ### [20200303 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200303%20기본저녁반%20필기자료.ipynb)
     - numpy
     - Fancy Indexing, Broadcasting, Universal Function, Factory Method, tensorflow의 MNIST 데이터셋 열어보기
