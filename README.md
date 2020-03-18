@@ -81,8 +81,14 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     
 ### [20200316 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200316%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - scikit-learn
-    - 기계학습, 지도학습, random
+    - 기계학습, 지도학습, random, hold out
     - train_test_split, randint, shuffle, seed
+
+### [20200317 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200317%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - scikit-learn, mglearn
+    - 정형데이터, 비정형데이터, regression을 classification으로 치환, imbalanced data, 차원의 저주, data leakage, cross validation
+    - cut, qcut, score, cross_val_score, KFold, dummy
+
 
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
