@@ -101,6 +101,10 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - hold out, learning curve
     - boxplot, violinplot, boxenplot, StratifiedKFold, Group KFold, ShuffleSplit, cross_val_predict, corss_validate, learning_curve
 
+### [20200319 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200319%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - scikit-learn, missingno, pandas
+    - preprocessing(전처리), scaling(정규화), encoding, missing data(결측값)
+    - StandardScaler, MinMaxScaler, LabelEncoder, get_dummies, OneHotEncoder, fit_transform, inverse_transform, isnull, isna, fillna
 
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
