@@ -95,6 +95,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - scikit-learn, mglearn
     - 정형데이터, 비정형데이터, regression을 classification으로 치환, imbalanced data, 차원의 저주, data leakage, cross validation
     - cut, qcut, score, cross_val_score, KFold, dummy
+    
+### [20200318 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200318%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - scikit-learn, seaborn, sklearn-evaluation
+    - hold out, learning curve
+    - boxplot, violinplot, boxenplot, StratifiedKFold, Group KFold, ShuffleSplit, cross_val_predict, corss_validate, learning_curve
 
 
 ## 문의사항
