@@ -106,6 +106,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - preprocessing(전처리), scaling(정규화), encoding, missing data(결측값)
     - StandardScaler, MinMaxScaler, LabelEncoder, get_dummies, OneHotEncoder, fit_transform, inverse_transform, isnull, isna, fillna
 
+### [20200320 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200320%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C%20.ipynb)
+    - scikit-learn, seaborn
+    - Kaggle, binary vs multi class, one vs one, one vs rest, multi label, linear vs non-linear, decision boundary, probability vs non-probability, deterministic vs stochastic, chaining
+    - FacetGrid, make_blobs, OneVsOneClassifier, OneVsRestClassifier, MultiOutputClassifier, GaussianNB, predict_proba, predict_log_proba, 
+
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
