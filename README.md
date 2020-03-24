@@ -116,6 +116,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - 모델 선택 기준, 오캄의 면도칼, No Free Lunch, Pipeline, 하이퍼 파라미터 찾기, 3way hold-out, metric, TP, FP, TN, FN, precision, recall, f1-score
     - make_classification, Pipeline, make_pipeline, GridSearchCV, classification_report, confusion_matrix
 
+### [20200324 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200324%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - scikit-learn
+    - SVM, support vector machine, 알고리즘과 하이퍼파라미터 동시에 찾기, feature selection
+    - make_circle, SVC, SVR, validation_curve, RandomizedSearchCV, ParameterGrid, FunctionTransformer, @np.vectorize, Binarizer, SelectKBest, chi2
+
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
