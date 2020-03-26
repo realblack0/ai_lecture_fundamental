@@ -120,6 +120,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - scikit-learn
     - SVM, support vector machine, 알고리즘과 하이퍼파라미터 동시에 찾기, feature selection
     - make_circle, SVC, SVR, validation_curve, RandomizedSearchCV, ParameterGrid, FunctionTransformer, @np.vectorize, Binarizer, SelectKBest, chi2
+    
+### [20200325 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200325%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - scikit-learn
+    - 다중공선성, impute, feature selection(filter, wrapper, embedded), CART, parametric vs non-parametric, ensemble, GridSearchCV의 내부 구조, VotingClassifier + Pipeline + GridSearchCV
+    - KNNImputer, SimpleImputer, chi2, SelectKBest, f_regression, RFE, insert, DecisionTreeRegressor, VotingClassifier
 
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
