@@ -125,6 +125,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - scikit-learn
     - 다중공선성, impute, feature selection(filter, wrapper, embedded), CART, parametric vs non-parametric, ensemble, GridSearchCV의 내부 구조, VotingClassifier + Pipeline + GridSearchCV
     - KNNImputer, SimpleImputer, chi2, SelectKBest, f_regression, RFE, insert, DecisionTreeRegressor, VotingClassifier
+    
+### [20200326 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200326%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb) 
+  - scikit-learn, surprise, xgboost
+  - 추천시스템, Ensemble(앙상블), bagging(배깅), boosting(부스팅), stacking, unsupervised learning(비지도 학습)
+  - BaggingClassifier, RandomForestClassifier, AdaBoostClassifier, StackingClassifier, KMeans, DBSCAN
 
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
