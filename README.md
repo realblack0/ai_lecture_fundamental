@@ -136,6 +136,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - unsupervised learning(비지도 학습), Agglomerative Clustering(병합 군집화), Hierachical Clustering(계층적 군집화), Dendrogram, Principle Component Analysis(주성분분석), LDA(잠재 디리클레 할당), t-sne, 딥러닝의 역사
     - DBSCAN, KMeans, AgglomerativeClustering, linkage, dendrogram, PCA, LatentDirichletAllocation
 
+### [20200330 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200330%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow, keras
+    - 딥러닝 프레임워크, activation function, loss function, optimizer, metrics
+    - Sequential, Dense, add, summary, compile, fit, epochs, 
+
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
