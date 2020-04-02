@@ -143,9 +143,14 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     
 ### [20200331 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200331%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - tensorflow, keras, scikit-learn
-    - mnist, fashion mnist, scaling, activation function, advance activation, history, learning curve, validation curve,
+    - mnist, fashion mnist, scaling, activation function, advance activation, history, learning curve, validation curve
     - Flatten, predict, relu, softmax
-
+    
+### [20200401 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200401%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow, keras, tensorflow_hub, tensorflow_datasets
+    - backpropagation, feedforward, batch size, Tensor, keras : functional paradigm, transfer learning
+    - constant, Model, Input
+    
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
