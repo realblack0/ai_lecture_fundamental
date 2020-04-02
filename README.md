@@ -151,6 +151,11 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - backpropagation, feedforward, batch size, Tensor, keras : functional paradigm, transfer learning
     - constant, Model, Input
     
+### [20200402 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200402%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow, keras, tensorflwo_datasets
+    - optimizer, zero padding, feature extraction, transfer learning, convolution
+    - get_word_index, pad_sequence, take, trainable
+    
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
