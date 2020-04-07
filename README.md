@@ -158,9 +158,13 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     
 ### [20200403 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200403%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
     - tensorflow , keras
-    - tensorflow official tutorials, mse, mae, callback, 혼자서 공부하는 법
+    - mse, mae, callback, 혼자서 공부하는 법
     - get_file, Callback, TensorBoard, EarlyStopping, History, layers, get_layer, weights, bias, units
     
+### [20200406 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200406%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow, keras
+    - learning curve graph interprete, overfitting, underfitting, weight decay, drop out, tf.data, wrappers
+    - kernel_regularizer, Dropout, KerasClassifier, KerasRegressor, Dataset, feature_column, DenseFeatures
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
