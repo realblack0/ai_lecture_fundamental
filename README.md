@@ -165,6 +165,17 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - tensorflow, keras
     - learning curve graph interprete, overfitting, underfitting, weight decay, drop out, tf.data, wrappers
     - kernel_regularizer, Dropout, KerasClassifier, KerasRegressor, Dataset, feature_column, DenseFeatures
+    
+### [20200407 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200407%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow, keras, tpot
+    - estimator, 모델 저장 및 로드, model zoo, 문자열 formatting, HDF5, tpot, AutoML
+    - from_tensor_slise, take, shuffle, repeat, batch, DNNClassifier, ModelCheckpoint, save_weights_only, save, save_weight, load_model, load_weights, format, TPOTCLassifier, TPOTRegressor, export
+    
+### [20200408 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200408%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow, keras
+    - CNN (Convolution Neural Network)
+    - Convolution2D, Conv2D, MaxPolling2D, MaxPool2D, plot_model
+    
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
