@@ -175,7 +175,12 @@ git clone https://github.com/realblack0/ai_lecture_fundamental.git
     - tensorflow, keras
     - CNN (Convolution Neural Network)
     - Convolution2D, Conv2D, MaxPolling2D, MaxPool2D, plot_model
-    
+
+### [20200409 필기자료](https://github.com/realblack0/ai_lecture_fundamental/blob/master/notebooks/20200409%20%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98%20%ED%95%84%EA%B8%B0%EC%9E%90%EB%A3%8C.ipynb)
+    - tensorflow
+    - feature map visualization, filter visualization, Augmentation, compile에 문자열 대신 객체 쓰기
+    - ImageDataGenerator, flow, flow_from_dataframe, flow_from_directory, Dropout
+
 ## 문의사항
 - issues page: https://github.com/realblack0/ai_lecture_fundamental/issues
 - e-mail: realblack0@gmail.com
